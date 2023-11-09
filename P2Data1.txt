@@ -1,0 +1,20 @@
+date  method message M L XL shirtColor inkColor name  email
+2023/06/26  S "Hello There!" 152    132      126 Yellow Black ROB LOW  rlow@eprod.com
+2023/09/19  i "Great Taste, Less Filling" 126 5 2 Yellow White JOHN S. STERRETT   jsterrett@eprod.com
+2023/04/04  E "Have It Your Way" 101 115 7 Yellow Black NEAL JONES  neal.jones@oneok.com
+2023/03/13  N "Put A Tiger In Your Tank" 14500 14500 14500 Yellow White NHAN TRUONG  nvtruong@eprod.com
+2023/09/13  e "I would Walk A Mile For A Camel" 16 118 78 White Black A. M. TAYLOR ataylor@colpipe.com
+2023/05/24  i "Do not Worry, Be Happy!" 5 121 4 Red White DAVID STAFFORD  david.stafford@enbridge.com
+2023/04/26  e "Rush, Rush, For the Orange Crush" 1980  1976  1995 Yellow Black NEAL BURRELL wnburrell@eprod.com
+2023/09/23  n "If we could see the miracle of a single flower clearly, our whole life would change. ~BUDDHA [6]" 14500 7 2 Purple Black DARYL CRAM  dcram@jayhawkpl.com
+2023/07/15  I "When It Rains It Pours" 7 1 52 Purple Black QUINTIN H FRAZIER  quintin_frazier@kindermorgan.com
+2023/06/16  e "" 0 0 0 Red None STEPHEN LARSEN  stephenlarsen@imtt.com
+2023/06/28  E "Good To The Last Drop Flavor" 7 4 5 Yellow White KENNETH DAVID BORN  kdborn@sunocologistics.com
+2023/05/08  s "Friends may come and go, but enemies accumulate. ~THOMAS F. JONES, JR. [5]" 0 5 143 Blue Black KENNETH L. LYBARGER ken.lybarger@magellanlp.com
+2023/04/03  n "" 6 10 15 Yellow None THOMAS MCLANE  tjmclane@paalp.com
+2023/08/17  s "Things Go Better With Coke" 3 33 40 Yellow Black EDWARD A. FANT  buzz_fant@kindermorgan.com
+2023/08/17  s "The Cone With The Curl On Top" 139 14500 14500 Black Black JORDAN R JANAK  jrjanak@paalp.com
+2023/07/14  s "Red Bull Gives You Wings" 80 5 112 White White KENNETH DAVID BORN  kdborn@sunocologistics.com
+2023/08/17  E "Life Happens, Coffee Helps" 26 6 6 Blue Black EDITH COEN  ecoen@semgroupcorp.com
+2023/06/09  i "Save Money, Live Better" 85 3 5 Yellow Black CHARLIE PLANT  charlie.plant@crc.com
+2023/09/16  s "Wake Me Up Before You Go-Go" 3 3 14365 Black White DANIELLE STEPHENS  danielle_stephens@kindermorgan.com

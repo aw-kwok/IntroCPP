@@ -1,0 +1,20 @@
+date method message M L XL shirtColor inkColor name email
+2023/03/31 s "hello" 1 0 0 White Black Invalid order date
+2023/04/01 x "hello" 1 0 0 White Black Invalid print method
+2023/04/01 n "hello" 1 0 0 White None Print method none with non-empty msg
+2023/04/01 n "" 1 0 0 White Black Print method none with non-None ink
+2023/04/01 s "" 1 0 0 White Black Print method not none with empty msg
+2023/04/01 s "     " 1 0 0 White Black Print method not none with all whitespace msg
+2023/04/01 s "hello" 1 0 0 White None Print method not none with None ink
+2023/04/01 s "1234567890123456789012345678901234567890123456789" 1 0 0 White Black Message is 49 chars
+2023/04/01 s "hello" -1 0 0 White Black Medium count negative
+2023/04/01 s "hello" 14401 0 0 White Black Medium count too large
+2023/04/01 s "hello" 0 -1 0 White Black Large count negative
+2023/04/01 s "hello" 0 14401 0 White Black Large count too large
+2023/04/01 s "hello" 0 0 -1 White Black XL count negative
+2023/04/01 s "hello" 0 0 14401 White Black XL Count too large
+2023/04/01 s "hello" 0 0 0 White Black All counts zero
+2023/04/01 s "hello" 1 0 0 Purple Black Invalid shirt color
+2023/04/01 s "hello" 1 0 0 White Purple Invalid ink color
+2023/04/01 s "hello" 1 0 0 White White Shirt and ink both white
+2023/04/01 s "hello" 1 0 0 Black Black Shirt and ink color both black
