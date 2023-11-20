@@ -1,0 +1,25 @@
+date method message M L XL shirtColor inkColor name email
+2023/04/01 s "hello" 1 0 0 White Black $115.74 
+2023/04/01 i "hello" 1 0 0 White Black $6.85
+2023/04/01 e "hello" 1 0 0 White Black $23.84
+2023/04/01 n "" 1 0 0 White None $3.15
+2023/04/01 i "hello world" 1 0 0 White Black $8.47
+2023/04/01 e "hello world" 1 0 0 White Black $24.68
+2023/04/01 s "hello" 2 0 0 White Black $120.48
+2023/04/01 s "hello" 0 1 0 White Black $116.74
+2023/04/01 s "hello" 0 0 1 White Black $117.74
+2023/04/01 s "hello" 1 0 0 Red Black $115.96
+2023/04/01 s "hello" 1 0 0 Yellow Black $115.96
+2023/04/01 s "hello" 1 0 0 Green Black $115.96
+2023/04/01 s "hello" 1 0 0 Blue Black $115.96
+2023/04/01 s "hello" 1 0 0 Black White $115.96
+2023/04/01 s "hello" 143 0 0 White Black $788.82
+2023/04/01 s "hello" 144 0 0 White Black $757.85
+2023/04/01 s "hello" 48 48 48 White Black $895.37
+2023/04/01 s "hello" 1439 0 0 White Black $6619.93
+2023/04/01 s "hello" 1440 0 0 White Black $6277.62
+2023/04/01 s "hello" 480 480 480 White Black $7580.82
+2023/04/01 s "123456789012345678901234567890123456789012345678" 14399 14399 14399 Red White $233096.45
+2023/04/01 i "123456789012345678901234567890123456789012345678" 14399 14399 14399 Red White $763355.87
+2023/04/01 e "123456789012345678901234567890123456789012345678" 14399 14399 14399 Red White $745910.75
+2023/04/01 n "" 14399 14399 14399 Red None $170837.67
